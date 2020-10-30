@@ -1,3 +1,15 @@
+# Product Picker
+Made using React and Node with Shopify and Polaris Services.
+
+# Features
+<ol>
+  <li>List Products</li>
+  <li>Search Products</li>
+  <li>Select Prodcuts</li>
+  <li>Log the Products</li>
+</ol>
+
+
 # Shopify App Node
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
